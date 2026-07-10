@@ -1,6 +1,6 @@
 ### Sobre mim
 
-Atuo com Infraestrutura de TI, indo do suporte à administração de ambientes corporativos, incluindo Sophos, Microsoft 365/Entra ID, virtualização, redes e segurança. Trabalho na **Codex** como referência técnica de infraestrutura. Também estudo Gestão em TI (Uninter) e venho aplicando práticas de automação e IA no meu próprio fluxo de trabalho.
+Atuo com Infraestrutura de TI, indo do suporte à administração de ambientes corporativos, incluindo Sophos, Microsoft 365/Entra ID, virtualização, redes e segurança. Trabalho na **[Codex](https://www.codex.com.br/)** como referência técnica de infraestrutura. como referência técnica de infraestrutura. Também estudo Gestão em TI (Uninter) e venho aplicando práticas de automação e IA no meu próprio fluxo de trabalho.
 
 ### Infraestrutura e Administração
 
