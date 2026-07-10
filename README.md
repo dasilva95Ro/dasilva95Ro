@@ -1,42 +1,31 @@
-# Olá, Guys! 👋
+### Sobre mim
 
-## Sobre Mim
-- 🌱 Atualmente, sou Analista de Suporte de T.I. - Infraestrutura na [Codex](https://codex.com.br/).
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🚀 Interessado em AWS, SecDevOps \ Cyber Security e DevOps.
-</br>
+Atuo com Infraestrutura de TI, indo do suporte à administração de ambientes corporativos, incluindo Sophos, Microsoft 365/Entra ID, virtualização, redes e segurança. Trabalho na **Codex** como referência técnica de infraestrutura. Também estudo Gestão em TI (Uninter) e venho aplicando práticas de automação e IA no meu próprio fluxo de trabalho.
 
-<div>
-<a href="https://github.com/Rod-Santos">
+### Infraestrutura e Administração
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dasilva95Ro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</br>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasilva95Ro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Sophos](https://img.shields.io/badge/Sophos-XGS-1D1D1B?style=flat-square&logo=sophos&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-SSO-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DBA-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
 
-<!--<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Rod-Santos/Rod-Santos/blob/master/octocat-1695449299696.png"> -->
+### Cloud e DevOps
 
-</br>
-</br>
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
+### Desenvolvimento
 
-### 🖥️ Tecnologias e Ferramentas que uso e estou aprendendo: 
-<!-- <img width="300px" align="right" src="URL_DA_SUA_FOTO"> -->
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title = "GitLab"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title = "AWS"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "Linux"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title = "Windows Server"/></code>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</br>
-</br>
+### Métricas
 
-
-📫 Você pode falar comigo pelo  [LinkedIn](https://www.linkedin.com/in/rodrigodasilvasantos/) ou [Instagram](https://www.instagram.com/_drigosantos_/) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
-</br>
-
-<a href="https://www.instagram.com/_drigosantos_/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/rodrigodasilvasantos/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+![Metrics](https://raw.githubusercontent.com/dasilva95Ro/dasilva95Ro/main/github-metrics.svg)
