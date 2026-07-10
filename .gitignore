@@ -24,8 +24,7 @@ venv.bak/
 *.tar
 *.gz
 
-# Ignora todas as pastas na raiz do projeto
-/*/
+
 
 # Distribution / packaging
 .Python
