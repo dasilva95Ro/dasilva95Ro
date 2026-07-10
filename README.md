@@ -28,4 +28,4 @@ Atuo com Infraestrutura de TI, indo do suporte à administração de ambientes c
 
 ### Métricas
 
-![Metrics](https://raw.githubusercontent.com/dasilva95Ro/dasilva95Ro/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/dasilva95Ro/dasilva95Ro/master/github-metrics.svg)
